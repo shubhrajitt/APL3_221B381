@@ -1,15 +1,15 @@
 /******************************************************************************
 
-                            Online Java Compiler.
-                Code, Compile, Run and Debug java program online.
-Write your code in this editor and press "Run" button to execute it.
+Welcome to GDB Online.
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
-
 public class Main
 {
 	public static void main(String[] args) {
-		Voice2 voice2 = new Voice2();
-        voice2.templateMethod();
+		Voice voice = new Voice();
+		voice.prepareVoice();
 	}
 }
