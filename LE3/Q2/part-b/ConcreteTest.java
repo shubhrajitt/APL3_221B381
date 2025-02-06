@@ -1,5 +1,5 @@
-class ConcreteTest extends AbsTest {
+class Test extends AbsTest {
     public void display() {
-        System.out.println("Display method in ConcreteTest class");
+        System.out.println("Display method in Test class");
     }
 }

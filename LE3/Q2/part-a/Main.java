@@ -9,7 +9,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 public class Main
 {
 	public static void main(String[] args) {
-		Test t = new Test();
-        t.display();
+	Test obj = new Test();
+        obj.display();
 	}
 }
