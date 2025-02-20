@@ -1,5 +1,5 @@
 class Test extends AbsTest {
     public void display() {
-        System.out.println("I'm in Test class");
+        System.out.println("this is Test class");
     }
 }
